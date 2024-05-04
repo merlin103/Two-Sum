@@ -1,4 +1,4 @@
-#!/bin/perl -w2
+#!/bin/perl -w
 
 use strict;
 use feature 'say';
